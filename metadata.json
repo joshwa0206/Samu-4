@@ -1,0 +1,6 @@
+{
+  "name": "Blog Platform with Comments",
+  "description": "A modern full-stack blogging platform with user authentication, CRUD operations, rich text creation, commenting, liking, and an interactive dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
